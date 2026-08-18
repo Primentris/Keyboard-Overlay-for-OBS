@@ -1,0 +1,17 @@
+{
+  "name": "monkeytypeoverlay",
+  "version": "1.0.0",
+  "description": "Monkey Keyboard Overlay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "uiohook-napi": "^1.5.5",
+    "ws": "^8.21.0"
+  }
+}
